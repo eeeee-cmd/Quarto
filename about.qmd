@@ -1,0 +1,8 @@
+---
+title: "About"
+---
+
+About this site
+
+```{Hi, my name is Deyi Kong. I am a fourth year student in MAT & STA at University of Toronto.}
+```
